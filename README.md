@@ -1,4 +1,4 @@
-ASCE: An Asynchronous Optical-SAR Spatiotemporal Context-Enhanced Framework for Limited-Sample Long-Term Coastal Wetland Mapping
+ASCE: An Asynchronous Optical-SAR Spatiotemporal Context-Enhanced Framework for Long-Term Coastal Wetland Mapping
 
 
 Paper feature set
